@@ -1,0 +1,16 @@
+.persiondiv {
+  background-color: rgb(224, 29, 15);
+  border: 10px;
+  padding: 10px 10px 10px 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+p {
+  font-display: white;
+  border: 1px solid powderblue;
+  padding: 10px;
+  margin: 50px;
+  background-color: rgb(224, 210, 15);
+}
